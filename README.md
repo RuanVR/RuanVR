@@ -1,5 +1,9 @@
-### Oi, eu sou o Ruan
+<!--APRESENTATION-->
+<div>
+  <h2 align="center">Oi! Eu sou o Ruan</h2>
+</div>
 
+<div style="display: inline_block">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
