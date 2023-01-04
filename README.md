@@ -31,7 +31,7 @@
   
 <!-- STATUS GITHUB -->
 #
-  <details>
+<!--   <details>
     <summary>Github Status</summary>
     <br>
 
@@ -40,4 +40,4 @@
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?    user=RuanVR&theme=dark&hide_border=true&stroke=645BEB&ring=645BEB&fire=645BEB&currStreakLabel=645BEB"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVR&layout=compact&langs_count=7&theme=dark"/>
     </div>
-  </details>
+  </details> -->
