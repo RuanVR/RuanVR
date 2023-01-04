@@ -32,7 +32,7 @@
 <!-- STATUS GITHUB -->
 
 <details>
-<summary>Github Status</summary>
+  <summary><b>Github Status</b></summary>
 <br>
 
 <div align="center">
